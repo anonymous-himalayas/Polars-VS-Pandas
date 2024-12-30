@@ -27,3 +27,5 @@ print('-' * 50)
 group_df = health_data.groupby('Country')['Prevalence Rate'].mean()
 
 print(group_df.head(10))
+
+
