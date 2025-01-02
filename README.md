@@ -36,8 +36,8 @@ The comparison included 12 common data operations:
   - Join operations
   - Window functions
 
-<img src="graphs/heatmap.png" width=49%>
-<img src="graphs/box_whisker.png" width=49%>
+<img src="graphs/heatmap.png">
+<img src="graphs/box_whisker.png">
 
 ### Use Cases Where Polars Shines:
 - Large dataset processing
